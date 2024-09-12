@@ -1,0 +1,186 @@
+{
+    "vocabulary": [
+        {
+            "id": 0,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 1,
+            "word": "わたしたち ",
+            "kanji": "私たち",
+            "meaning": "Chúng tôi, chúng ta…(ngôi thứ nhất số nhiều)"
+        },
+        {
+            "id": 2,
+            "word": "あなた",
+            "meaning": "Bạn, ông, bà, anh, chị, cô, chú (ngôi thứ hai số ít)"
+        },
+        {
+            "id": 3,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 4,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 5,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 6,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 7,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 8,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 9,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        },
+        {
+            "id": 10,
+            "word": "わたし",
+            "kanji": "私",
+            "meaning": "Tôi (ngôi thứ nhất số ít)"
+        }
+    ],
+    "grammar": [
+        {
+            "id": 0,
+            "grammar": "N1 は N2 です",
+            "article_id": 0
+        },
+        {
+            "id": 1,
+            "grammar": "N は いくらですか。",
+            "article_id": 1
+        },
+        {
+            "id": 2,
+            "grammar": "今～時 ～ 分 です",
+            "article_id": 2
+        }
+    ],
+    "Kanji": [
+        {
+            "id": 0,
+            "kanji": "ー",
+            "pronounce": [
+                "ひとつ",
+                "イチ",
+                "イチ"
+            ],
+            "meaning": "Một"
+        },
+        {
+            "id": 1,
+            "kanji": "ー",
+            "pronounce": [
+                "ひとつ",
+                "イチ",
+                "イチ"
+            ],
+            "meaning": "Một"
+        },
+        {
+            "id": 2,
+            "kanji": "三",
+            "pronounce": [
+                "みっつ",
+                "サン"
+            ],
+            "meaning": "Ba"
+        },
+        {
+            "id": 3,
+            "kanji": "四",
+            "pronounce": [
+                "よっつ",
+                "よ",
+                "よん",
+                "シ"
+            ],
+            "meaning": "Bốn"
+        },
+        {
+            "id": 4,
+            "kanji": "五",
+            "pronounce": [
+                "いつつ",
+                "ゴ"
+            ],
+            "meaning": "Năm"
+        },
+        {
+            "id": 5,
+            "kanji": "六",
+            "pronounce": [
+                "むっつ",
+                "ロク",
+                "ロッー"
+            ],
+            "meaning": "Sáu"
+        },
+        {
+            "id": 6,
+            "kanji": "七",
+            "pronounce": [
+                "ななつ",
+                "シチ"
+            ],
+            "meaning": "Bảy"
+        },
+        {
+            "id": 7,
+            "kanji": "ハ",
+            "pronounce": [
+                "やっつ",
+                "ハチ",
+                "(ハッ-)"
+            ],
+            "meaning": "Tám"
+        },
+        {
+            "id": 8,
+            "kanji": "九",
+            "pronounce": [
+                "ここのつ",
+                "キュウ",
+                "ク"
+            ],
+            "meaning": "Chín"
+        },
+        {
+            "id": 9,
+            "kanji": "十",
+            "pronounce": [
+                "とお",
+                "ジュウ",
+                "ジッ"
+            ],
+            "meaning": "Mười"
+        }
+    ]
+}

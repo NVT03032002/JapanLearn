@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "latinWords": "Ohayo gozaimasu",
+        "hiraganaWords": "おはようございうございうございうございうございます",
+        "vietWords": "Chào buổi sáng",
+        "path": "1-1"
+    },
+    {
+        "id": 1,
+        "latinWords": "Ohayo gozaimasu 2",
+        "hiraganaWords": "おはようございうございうござい",
+        "vietWords": "Chào buổi sáng 2",
+        "path": "Track 1"
+    },
+    {
+        "id": 2,
+        "latinWords": "Ohayo gozaimasu",
+        "hiraganaWords": "おはようございます",
+        "vietWords": " Chào buổi sáng",
+        "path": "1-1"
+    },
+    {
+        "id": 3,
+        "latinWords": "Konnichiwa",
+        "hiraganaWords": "こんにちは",
+        "vietWords": "Chào buổi trưa",
+        "path": "bai1"
+    },
+    {
+        "id": 4,
+        "latinWords": "Konbanwa",
+        "hiraganaWords": "こんばんは",
+        "vietWords": "chào buổi tối",
+        "path": "bai1"
+    },
+    {
+        "id": 5,
+        "latinWords": "Itadakimasu",
+        "hiraganaWords": "いただきます",
+        "vietWords": "Mời cả nhà dùng bữa",
+        "path": "bai1"
+    },
+    {
+        "id": 6,
+        "latinWords": "Gochisosamadeshita",
+        "hiraganaWords": "ごちそうさまでした",
+        "vietWords": "Cám ơn vì bữa ăn",
+        "path": "1-1"
+    },
+    {
+        "id": 7,
+        "latinWords": "Sayonara",
+        "hiraganaWords": "さようなら",
+        "vietWords": "Chào tạm biệt",
+        "path": "bai1"
+    },
+    {
+        "id": 8,
+        "latinWords": "Matane",
+        "hiraganaWords": "またね",
+        "vietWords": "Hẹn gặp lại",
+        "path": "bai1"
+    },
+    {
+        "id": 9,
+        "latinWords": "Gomennasai",
+        "hiraganaWords": "asdasd",
+        "vietWords": "asdasd",
+        "path": "bai1"
+    },
+    {
+        "id": 10,
+        "latinWords": "Itterasshai",
+        "hiraganaWords": "asdasd",
+        "vietWords": "asdasd",
+        "path": "1-1"
+    }
+]

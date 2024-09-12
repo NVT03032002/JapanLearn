@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "articles": [
+            {
+                "type": "article",
+                "title": "Ý nghĩa",
+                "content": "N1 là N2"
+            },
+            {
+                "type": "article",
+                "title": "Cách dùng",
+                "content": "- Danh từ đứng trước は là chủ đề hoặc chủ ngữ trong câu.\n- です được sử dụng cuối câu khẳng định, biểu lộ sự lịch sự đối với người nghe.\n- Đứng trước です là một danh từ hoặc tính từ."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "articles": [
+            {
+                "type": "article",
+                "title": "Ý nghĩa",
+                "content": "N bao nhiêu tiền"
+            },
+            {
+                "type": "article",
+                "title": "Ví dụ",
+                "content": "このざっし は いくらですか。\n１００円です。\n\n Cái áo này bao nhiêu tiền?…\n …100 Yên"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "articles": [
+            {
+                "type": "article",
+                "title": "Ý nghĩa",
+                "content": "Bây giờ là ~ giờ ~ phút"
+            },
+            {
+                "type": "article",
+                "title": "Cách dùng",
+                "content": " - じ đặt sau số đếm, dùng chỉ giờ. \n - ふん（ぷん）đặt sau số đếm, dùng chỉ phút"
+            },
+            {
+                "type": "img",
+                "url": "https://cdn.discordapp.com/attachments/1256922048178028587/1264253862219481098/test.png?ex=669d33a9&is=669be229&hm=5bc0190b7fb61b63e93f56842e64a6e622ee862a333642f131680e3e04004c1e&"
+            },
+            {
+                "type": "article",
+                "title": "Ví dụ:",
+                "content": "今(いま)８じです。\nBây giờ là 8 giờ.\n\nとうきょうは 今(いま)９時(じ)３０分(ぷん)です。\nTokyo bây giờ là 9 giờ 30 phút."
+            }
+        ]
+    }
+]
